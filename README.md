@@ -81,10 +81,9 @@ ai-linkedin-content-automation/
 
 ## Screenshots
 
-### n8n Workflow
+## Workflow Screenshot
 
-![n8n Workflow](screenshots/workflow.png)
-
+![n8n LinkedIn Automation Workflow](workflow.png)
 ### LinkedIn Output
 
 ![LinkedIn Output](screenshots/linkedin-post.png)
